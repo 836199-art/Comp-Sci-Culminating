@@ -1,6 +1,8 @@
 # Comp-Sci-Culminating
-Group members: Alyssa, Karthiga, Sahasra
+
 
 # Group Members
+Names: Alyssa, Karthiga, Sahasra
+
 
 # Project Overview
