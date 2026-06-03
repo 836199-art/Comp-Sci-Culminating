@@ -8,7 +8,7 @@ KARTHIGA: Hi, my name is Karthiga Thirugnanam and I am a Grade 12 student going 
 
 ALYSSA: Hi, I'm Alyssa Hayhurst, a Grade 12 student who will be going to Queen's University in the fall for Health Science. I enjoy designing creative projects and working with the visual elements, and I wanted to contribute to a project with a creative, attractive, and user-friendly shopping experience. I love shopping, especially online shopping, and I was excited to work on a project that combines many of my passions. 
 
-SAHASRA:
+SAHASRA: Hi, I am Sahasra Hallegiri, a Grade 12 student who will be going to University of Toronto Mississauga in the fall for Social Sciences. I enjoy online shopping and programming creative projects that help me learn along the way. I am excited to do this project as I believe it will be a good opportunity to showcase and imporve my skills. 
 
 # PinkElephant Overview
 PinkElephant is an interactive, user-friendly Java Swing shopping site that allows users to browse, customize, and purchase their favourite phone cases! This site features a variety of designs and colours for all the latest phone models and sizes - allowing users to find a case that matches their personal style and their device.
