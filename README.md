@@ -1,4 +1,4 @@
-# Comp-Sci-Culminating
+# PinkElephant: Our Phone Case Brand | ICS4UR-1 Culminating
 
 
 # Group Members
