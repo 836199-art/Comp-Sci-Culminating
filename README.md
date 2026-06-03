@@ -20,4 +20,5 @@ Users will be able to:
 - See reviews
 - See FAQs (frequently asked questions)
 - Complete purchases by entering shipping/payment information
+
 Our group chose this project because we all love online shopping, and we know that many others relate. We wanted to create a shopping experience inspired by the features we enjoy on modern shopping websites. PinkElephant will combine creativity, design, and programming while providing a user-friendly and engaging experience for shoppers.
